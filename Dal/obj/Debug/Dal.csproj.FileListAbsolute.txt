@@ -1,0 +1,86 @@
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras\Dal\obj\Debug\Dal.csprojResolveAssemblyReference.cache
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras\Dal\bin\Debug\Dal.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras\Dal\bin\Debug\Dal.pdb
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras\Dal\bin\Debug\Model.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras\Dal\bin\Debug\MySql.Data.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras\Dal\bin\Debug\Model.pdb
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras\Dal\bin\Debug\MySql.Data.xml
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras\Dal\obj\Debug\Dal.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras\Dal\obj\Debug\Dal.pdb
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras - Copia (2)\Dal\obj\Debug\Dal.csprojResolveAssemblyReference.cache
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras - Copia (2)\Dal\obj\Debug\Dal.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras - Copia (2)\Dal\obj\Debug\Dal.pdb
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras - Copia (2)\Dal\bin\Debug\Dal.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras - Copia (2)\Dal\bin\Debug\Dal.pdb
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras - Copia (2)\Dal\bin\Debug\Model.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras - Copia (2)\Dal\bin\Debug\MySql.Data.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras - Copia (2)\Dal\bin\Debug\Model.pdb
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras - Copia (2)\Dal\bin\Debug\MySql.Data.xml
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 2 - Copia\Dal\bin\Debug\Dal.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 2 - Copia\Dal\bin\Debug\Dal.pdb
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 2 - Copia\Dal\bin\Debug\Model.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 2 - Copia\Dal\bin\Debug\MySql.Data.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 2 - Copia\Dal\bin\Debug\Model.pdb
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 2 - Copia\Dal\bin\Debug\MySql.Data.xml
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 2 - Copia\Dal\obj\Debug\Dal.csprojResolveAssemblyReference.cache
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 2 - Copia\Dal\obj\Debug\Dal.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 2 - Copia\Dal\obj\Debug\Dal.pdb
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 2 - Copia\Dal\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 2 - Copia\Dal\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - Copia\Dal\bin\Debug\Dal.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - Copia\Dal\bin\Debug\Dal.pdb
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - Copia\Dal\bin\Debug\Model.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - Copia\Dal\bin\Debug\MySql.Data.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - Copia\Dal\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - Copia\Dal\bin\Debug\Model.pdb
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - Copia\Dal\bin\Debug\MySql.Data.xml
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - Copia\Dal\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - Copia\Dal\obj\Debug\Dal.csprojResolveAssemblyReference.cache
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - Copia\Dal\obj\Debug\Dal.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - Copia\Dal\obj\Debug\Dal.pdb
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 -funcionando\Dal\bin\Debug\Dal.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 -funcionando\Dal\bin\Debug\Dal.pdb
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 -funcionando\Dal\bin\Debug\Model.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 -funcionando\Dal\bin\Debug\MySql.Data.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 -funcionando\Dal\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 -funcionando\Dal\bin\Debug\Model.pdb
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 -funcionando\Dal\bin\Debug\MySql.Data.xml
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 -funcionando\Dal\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 -funcionando\Dal\obj\Debug\Dal.csprojResolveAssemblyReference.cache
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 -funcionando\Dal\obj\Debug\Dal.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 -funcionando\Dal\obj\Debug\Dal.pdb
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - usando\Dal\bin\Debug\Dal.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - usando\Dal\bin\Debug\Dal.pdb
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - usando\Dal\bin\Debug\Model.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - usando\Dal\bin\Debug\MySql.Data.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - usando\Dal\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - usando\Dal\bin\Debug\Model.pdb
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - usando\Dal\bin\Debug\MySql.Data.xml
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - usando\Dal\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - usando\Dal\obj\Debug\Dal.csprojResolveAssemblyReference.cache
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - usando\Dal\obj\Debug\Dal.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - usando\Dal\obj\Debug\Dal.pdb
+C:\Users\House\Desktop\JogoPalavras 3 - backup\Dal\bin\Debug\Dal.dll
+C:\Users\House\Desktop\JogoPalavras 3 - backup\Dal\bin\Debug\Dal.pdb
+C:\Users\House\Desktop\JogoPalavras 3 - backup\Dal\bin\Debug\Model.dll
+C:\Users\House\Desktop\JogoPalavras 3 - backup\Dal\bin\Debug\MySql.Data.dll
+C:\Users\House\Desktop\JogoPalavras 3 - backup\Dal\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\House\Desktop\JogoPalavras 3 - backup\Dal\bin\Debug\Model.pdb
+C:\Users\House\Desktop\JogoPalavras 3 - backup\Dal\bin\Debug\MySql.Data.xml
+C:\Users\House\Desktop\JogoPalavras 3 - backup\Dal\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\House\Desktop\JogoPalavras 3 - backup\Dal\obj\Debug\Dal.csprojResolveAssemblyReference.cache
+C:\Users\House\Desktop\JogoPalavras 3 - backup\Dal\obj\Debug\Dal.dll
+C:\Users\House\Desktop\JogoPalavras 3 - backup\Dal\obj\Debug\Dal.pdb
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\Dal\bin\Debug\Dal.dll
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\Dal\bin\Debug\Dal.pdb
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\Dal\bin\Debug\Model.dll
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\Dal\bin\Debug\MySql.Data.dll
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\Dal\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\Dal\bin\Debug\Model.pdb
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\Dal\bin\Debug\MySql.Data.xml
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\Dal\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\Dal\obj\Debug\Dal.csprojAssemblyReference.cache
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\Dal\obj\Debug\Dal.csproj.CopyComplete
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\Dal\obj\Debug\Dal.dll
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\Dal\obj\Debug\Dal.pdb

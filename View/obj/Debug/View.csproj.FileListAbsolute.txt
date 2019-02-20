@@ -1,0 +1,522 @@
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras\View\bin\Debug\View.exe.config
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras\View\bin\Debug\View.exe
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras\View\bin\Debug\View.pdb
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras\View\obj\Debug\View.csprojResolveAssemblyReference.cache
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras\View\obj\Debug\MainWindow.g.cs
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras\View\obj\Debug\App.g.cs
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras\View\obj\Debug\View_MarkupCompile.cache
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras\View\obj\Debug\View_MarkupCompile.lref
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras\View\obj\Debug\MainWindow.baml
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras\View\obj\Debug\View.g.resources
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras\View\obj\Debug\View.Properties.Resources.resources
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras\View\obj\Debug\View.csproj.GenerateResource.Cache
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras\View\obj\Debug\View.exe
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras\View\obj\Debug\View.pdb
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras\View\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras\View\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras\View\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras\View\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras\View\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras\View\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras\View\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras\View\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras\View\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras\View\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras\View\bin\Debug\Bll.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras\View\bin\Debug\Dal.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras\View\bin\Debug\MySql.Data.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras\View\bin\Debug\Model.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras\View\bin\Debug\Bll.pdb
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras\View\bin\Debug\Dal.pdb
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras\View\bin\Debug\MySql.Data.xml
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras\View\bin\Debug\Model.pdb
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras\View\obj\Debug\Window2.g.cs
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras\View\obj\Debug\Window2.baml
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras - Copia (2)\View\bin\Debug\View.exe.config
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras - Copia (2)\View\obj\Debug\View.exe
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras - Copia (2)\View\obj\Debug\View.pdb
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras - Copia (2)\View\bin\Debug\View.exe
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras - Copia (2)\View\bin\Debug\View.pdb
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras - Copia (2)\View\bin\Debug\Bll.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras - Copia (2)\View\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras - Copia (2)\View\bin\Debug\Dal.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras - Copia (2)\View\bin\Debug\MySql.Data.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras - Copia (2)\View\bin\Debug\Model.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras - Copia (2)\View\bin\Debug\Bll.pdb
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras - Copia (2)\View\bin\Debug\Dal.pdb
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras - Copia (2)\View\bin\Debug\MySql.Data.xml
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras - Copia (2)\View\bin\Debug\Model.pdb
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras - Copia (2)\View\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras - Copia (2)\View\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras - Copia (2)\View\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras - Copia (2)\View\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras - Copia (2)\View\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras - Copia (2)\View\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras - Copia (2)\View\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras - Copia (2)\View\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras - Copia (2)\View\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras - Copia (2)\View\obj\Debug\View.csprojResolveAssemblyReference.cache
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras - Copia (2)\View\obj\Debug\MainWindow.g.cs
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras - Copia (2)\View\obj\Debug\Window2.g.cs
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras - Copia (2)\View\obj\Debug\App.g.cs
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras - Copia (2)\View\obj\Debug\View_MarkupCompile.cache
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras - Copia (2)\View\obj\Debug\View_MarkupCompile.lref
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras - Copia (2)\View\obj\Debug\MainWindow.baml
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras - Copia (2)\View\obj\Debug\Window2.baml
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras - Copia (2)\View\obj\Debug\View.g.resources
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras - Copia (2)\View\obj\Debug\View.Properties.Resources.resources
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras - Copia (2)\View\obj\Debug\View.csproj.GenerateResource.Cache
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras - Copia (2)\View\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras - Copia (2)\View\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras - Copia (2)\View\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras - Copia (2)\View\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras - Copia (2)\View\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras - Copia (2)\View\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras - Copia (2)\View\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras - Copia (2)\View\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras - Copia (2)\View\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras - Copia (2)\View\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras - Copia (2)\View\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras - Copia (2)\View\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras - Copia (2)\View\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras - Copia (2)\View\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras - Copia (2)\View\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras - Copia (2)\View\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras - Copia (2)\View\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras - Copia (2)\View\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras - Copia (2)\View\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras - Copia (2)\View\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras - Copia (2)\View\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras - Copia (2)\View\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras - Copia (2)\View\obj\Debug\Cadastrar.g.cs
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras - Copia (2)\View\obj\Debug\Inicial.g.cs
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras - Copia (2)\View\obj\Debug\Regras.g.cs
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras - Copia (2)\View\obj\Debug\Cadastrar.baml
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras - Copia (2)\View\obj\Debug\Inicial.baml
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras - Copia (2)\View\obj\Debug\Regras.baml
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras - Copia (2)\View\obj\Debug\Pontos.g.cs
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras - Copia (2)\View\obj\Debug\Pontos.baml
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 2 - Copia\View\bin\Debug\View.exe.config
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 2 - Copia\View\bin\Debug\View.exe
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 2 - Copia\View\bin\Debug\View.pdb
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 2 - Copia\View\bin\Debug\Bll.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 2 - Copia\View\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 2 - Copia\View\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 2 - Copia\View\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 2 - Copia\View\bin\Debug\Dal.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 2 - Copia\View\bin\Debug\MySql.Data.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 2 - Copia\View\bin\Debug\Model.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 2 - Copia\View\bin\Debug\Bll.pdb
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 2 - Copia\View\bin\Debug\Dal.pdb
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 2 - Copia\View\bin\Debug\MySql.Data.xml
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 2 - Copia\View\bin\Debug\Model.pdb
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 2 - Copia\View\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 2 - Copia\View\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 2 - Copia\View\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 2 - Copia\View\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 2 - Copia\View\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 2 - Copia\View\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 2 - Copia\View\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 2 - Copia\View\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 2 - Copia\View\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 2 - Copia\View\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 2 - Copia\View\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 2 - Copia\View\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 2 - Copia\View\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 2 - Copia\View\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 2 - Copia\View\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 2 - Copia\View\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 2 - Copia\View\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 2 - Copia\View\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 2 - Copia\View\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 2 - Copia\View\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 2 - Copia\View\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 2 - Copia\View\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 2 - Copia\View\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 2 - Copia\View\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 2 - Copia\View\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 2 - Copia\View\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 2 - Copia\View\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 2 - Copia\View\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 2 - Copia\View\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 2 - Copia\View\obj\Debug\Cadastrar.g.cs
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 2 - Copia\View\obj\Debug\Inicial.g.cs
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 2 - Copia\View\obj\Debug\Pontos.g.cs
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 2 - Copia\View\obj\Debug\Regras.g.cs
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 2 - Copia\View\obj\Debug\Window2.g.cs
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 2 - Copia\View\obj\Debug\WindowGame.g.cs
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 2 - Copia\View\obj\Debug\App.g.cs
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 2 - Copia\View\obj\Debug\View_MarkupCompile.cache
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 2 - Copia\View\obj\Debug\View_MarkupCompile.lref
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 2 - Copia\View\obj\Debug\Cadastrar.baml
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 2 - Copia\View\obj\Debug\Inicial.baml
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 2 - Copia\View\obj\Debug\Pontos.baml
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 2 - Copia\View\obj\Debug\Regras.baml
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 2 - Copia\View\obj\Debug\Window2.baml
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 2 - Copia\View\obj\Debug\WindowGame.baml
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 2 - Copia\View\obj\Debug\View.g.resources
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 2 - Copia\View\obj\Debug\View.Properties.Resources.resources
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 2 - Copia\View\obj\Debug\View.csproj.GenerateResource.Cache
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 2 - Copia\View\obj\Debug\View.exe
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 2 - Copia\View\obj\Debug\View.pdb
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 2 - Copia\View\obj\Debug\View.csprojResolveAssemblyReference.cache
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - Copia\View\bin\Debug\View.exe.config
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - Copia\View\obj\Debug\View.csprojResolveAssemblyReference.cache
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - Copia\View\bin\Debug\View.exe
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - Copia\View\bin\Debug\View.pdb
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - Copia\View\bin\Debug\Bll.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - Copia\View\bin\Debug\Dal.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - Copia\View\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - Copia\View\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - Copia\View\bin\Debug\Model.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - Copia\View\bin\Debug\System.Web.DataVisualization.Design.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - Copia\View\bin\Debug\System.Web.DataVisualization.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - Copia\View\bin\Debug\System.Windows.Forms.DataVisualization.Design.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - Copia\View\bin\Debug\System.Windows.Forms.DataVisualization.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - Copia\View\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - Copia\View\bin\Debug\MySql.Data.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - Copia\View\bin\Debug\Bll.pdb
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - Copia\View\bin\Debug\Dal.pdb
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - Copia\View\bin\Debug\Model.pdb
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - Copia\View\bin\Debug\MySql.Data.xml
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - Copia\View\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - Copia\View\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - Copia\View\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - Copia\View\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - Copia\View\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - Copia\View\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - Copia\View\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - Copia\View\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - Copia\View\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - Copia\View\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - Copia\View\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - Copia\View\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - Copia\View\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - Copia\View\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - Copia\View\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - Copia\View\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - Copia\View\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - Copia\View\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - Copia\View\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - Copia\View\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - Copia\View\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - Copia\View\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - Copia\View\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - Copia\View\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - Copia\View\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - Copia\View\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - Copia\View\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - Copia\View\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - Copia\View\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - Copia\View\obj\Debug\Cadastrar.g.cs
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - Copia\View\obj\Debug\Inicial.g.cs
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - Copia\View\obj\Debug\Pontos.g.cs
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - Copia\View\obj\Debug\Regras.g.cs
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - Copia\View\obj\Debug\Window2.g.cs
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - Copia\View\obj\Debug\WindowGame.g.cs
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - Copia\View\obj\Debug\App.g.cs
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - Copia\View\obj\Debug\View_MarkupCompile.cache
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - Copia\View\obj\Debug\View_MarkupCompile.lref
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - Copia\View\obj\Debug\Cadastrar.baml
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - Copia\View\obj\Debug\Inicial.baml
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - Copia\View\obj\Debug\Pontos.baml
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - Copia\View\obj\Debug\Regras.baml
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - Copia\View\obj\Debug\Window2.baml
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - Copia\View\obj\Debug\WindowGame.baml
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - Copia\View\obj\Debug\View.g.resources
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - Copia\View\obj\Debug\View.Properties.Resources.resources
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - Copia\View\obj\Debug\View.csproj.GenerateResource.Cache
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - Copia\View\obj\Debug\View.exe
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - Copia\View\obj\Debug\View.pdb
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 -funcionando\View\bin\Debug\View.exe.config
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 -funcionando\View\obj\Debug\View.exe
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 -funcionando\View\obj\Debug\View.pdb
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 -funcionando\View\bin\Debug\View.exe
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 -funcionando\View\bin\Debug\View.pdb
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 -funcionando\View\bin\Debug\Bll.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 -funcionando\View\bin\Debug\Dal.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 -funcionando\View\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 -funcionando\View\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 -funcionando\View\bin\Debug\Model.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 -funcionando\View\bin\Debug\System.Web.DataVisualization.Design.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 -funcionando\View\bin\Debug\System.Web.DataVisualization.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 -funcionando\View\bin\Debug\System.Windows.Forms.DataVisualization.Design.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 -funcionando\View\bin\Debug\System.Windows.Forms.DataVisualization.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 -funcionando\View\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 -funcionando\View\bin\Debug\MySql.Data.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 -funcionando\View\bin\Debug\Bll.pdb
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 -funcionando\View\bin\Debug\Dal.pdb
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 -funcionando\View\bin\Debug\Model.pdb
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 -funcionando\View\bin\Debug\MySql.Data.xml
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 -funcionando\View\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 -funcionando\View\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 -funcionando\View\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 -funcionando\View\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 -funcionando\View\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 -funcionando\View\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 -funcionando\View\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 -funcionando\View\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 -funcionando\View\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 -funcionando\View\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 -funcionando\View\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 -funcionando\View\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 -funcionando\View\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 -funcionando\View\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 -funcionando\View\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 -funcionando\View\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 -funcionando\View\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 -funcionando\View\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 -funcionando\View\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 -funcionando\View\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 -funcionando\View\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 -funcionando\View\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 -funcionando\View\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 -funcionando\View\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 -funcionando\View\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 -funcionando\View\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 -funcionando\View\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 -funcionando\View\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 -funcionando\View\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 -funcionando\View\obj\Debug\View.csprojResolveAssemblyReference.cache
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 -funcionando\View\obj\Debug\Cadastrar.g.cs
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 -funcionando\View\obj\Debug\Inicial.g.cs
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 -funcionando\View\obj\Debug\Pontos.g.cs
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 -funcionando\View\obj\Debug\Regras.g.cs
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 -funcionando\View\obj\Debug\Window2.g.cs
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 -funcionando\View\obj\Debug\WindowGame.g.cs
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 -funcionando\View\obj\Debug\App.g.cs
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 -funcionando\View\obj\Debug\View_MarkupCompile.cache
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 -funcionando\View\obj\Debug\View_MarkupCompile.lref
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 -funcionando\View\obj\Debug\Cadastrar.baml
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 -funcionando\View\obj\Debug\Inicial.baml
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 -funcionando\View\obj\Debug\Pontos.baml
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 -funcionando\View\obj\Debug\Regras.baml
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 -funcionando\View\obj\Debug\Window2.baml
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 -funcionando\View\obj\Debug\WindowGame.baml
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 -funcionando\View\obj\Debug\View.g.resources
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 -funcionando\View\obj\Debug\View.Properties.Resources.resources
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 -funcionando\View\obj\Debug\View.csproj.GenerateResource.Cache
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - usando\View\bin\Debug\View.exe.config
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - usando\View\obj\Debug\View.exe
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - usando\View\obj\Debug\View.pdb
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - usando\View\bin\Debug\View.exe
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - usando\View\bin\Debug\View.pdb
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - usando\View\bin\Debug\Bll.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - usando\View\bin\Debug\Dal.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - usando\View\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - usando\View\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - usando\View\bin\Debug\Model.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - usando\View\bin\Debug\MySql.Data.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - usando\View\bin\Debug\System.Web.DataVisualization.Design.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - usando\View\bin\Debug\System.Web.DataVisualization.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - usando\View\bin\Debug\System.Windows.Forms.DataVisualization.Design.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - usando\View\bin\Debug\System.Windows.Forms.DataVisualization.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - usando\View\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - usando\View\bin\Debug\Bll.pdb
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - usando\View\bin\Debug\Dal.pdb
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - usando\View\bin\Debug\Model.pdb
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - usando\View\bin\Debug\MySql.Data.xml
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - usando\View\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - usando\View\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - usando\View\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - usando\View\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - usando\View\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - usando\View\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - usando\View\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - usando\View\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - usando\View\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - usando\View\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - usando\View\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - usando\View\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - usando\View\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - usando\View\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - usando\View\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - usando\View\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - usando\View\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - usando\View\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - usando\View\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - usando\View\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - usando\View\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - usando\View\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - usando\View\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - usando\View\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - usando\View\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - usando\View\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - usando\View\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - usando\View\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - usando\View\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - usando\View\obj\Debug\View.csprojResolveAssemblyReference.cache
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - usando\View\obj\Debug\Cadastrar.g.cs
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - usando\View\obj\Debug\Inicial.g.cs
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - usando\View\obj\Debug\Pontos.g.cs
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - usando\View\obj\Debug\Ranking.g.cs
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - usando\View\obj\Debug\Regras.g.cs
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - usando\View\obj\Debug\Window2.g.cs
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - usando\View\obj\Debug\WindowGame.g.cs
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - usando\View\obj\Debug\App.g.cs
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - usando\View\obj\Debug\View_MarkupCompile.cache
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - usando\View\obj\Debug\View_MarkupCompile.lref
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - usando\View\obj\Debug\Cadastrar.baml
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - usando\View\obj\Debug\Inicial.baml
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - usando\View\obj\Debug\Pontos.baml
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - usando\View\obj\Debug\Ranking.baml
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - usando\View\obj\Debug\Regras.baml
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - usando\View\obj\Debug\Window2.baml
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - usando\View\obj\Debug\WindowGame.baml
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - usando\View\obj\Debug\View.g.resources
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - usando\View\obj\Debug\View.Properties.Resources.resources
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - usando\View\obj\Debug\View.csproj.GenerateResource.Cache
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - usando\View\obj\Debug\RankGeral.g.cs
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - usando\View\obj\Debug\RankGeral.baml
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - usando\View\obj\Debug\Aviso.g.cs
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - usando\View\obj\Debug\Aviso.baml
+C:\Users\House\Desktop\JogoPalavras 3 - backup\View\bin\Debug\View.exe.config
+C:\Users\House\Desktop\JogoPalavras 3 - backup\View\obj\Debug\View.exe
+C:\Users\House\Desktop\JogoPalavras 3 - backup\View\obj\Debug\View.pdb
+C:\Users\House\Desktop\JogoPalavras 3 - backup\View\bin\Debug\View.exe
+C:\Users\House\Desktop\JogoPalavras 3 - backup\View\bin\Debug\View.pdb
+C:\Users\House\Desktop\JogoPalavras 3 - backup\View\bin\Debug\Bll.dll
+C:\Users\House\Desktop\JogoPalavras 3 - backup\View\bin\Debug\Dal.dll
+C:\Users\House\Desktop\JogoPalavras 3 - backup\View\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\House\Desktop\JogoPalavras 3 - backup\View\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\House\Desktop\JogoPalavras 3 - backup\View\bin\Debug\Model.dll
+C:\Users\House\Desktop\JogoPalavras 3 - backup\View\bin\Debug\MySql.Data.dll
+C:\Users\House\Desktop\JogoPalavras 3 - backup\View\bin\Debug\System.Web.DataVisualization.Design.dll
+C:\Users\House\Desktop\JogoPalavras 3 - backup\View\bin\Debug\System.Web.DataVisualization.dll
+C:\Users\House\Desktop\JogoPalavras 3 - backup\View\bin\Debug\System.Windows.Forms.DataVisualization.Design.dll
+C:\Users\House\Desktop\JogoPalavras 3 - backup\View\bin\Debug\System.Windows.Forms.DataVisualization.dll
+C:\Users\House\Desktop\JogoPalavras 3 - backup\View\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\House\Desktop\JogoPalavras 3 - backup\View\bin\Debug\Bll.pdb
+C:\Users\House\Desktop\JogoPalavras 3 - backup\View\bin\Debug\Dal.pdb
+C:\Users\House\Desktop\JogoPalavras 3 - backup\View\bin\Debug\Model.pdb
+C:\Users\House\Desktop\JogoPalavras 3 - backup\View\bin\Debug\MySql.Data.xml
+C:\Users\House\Desktop\JogoPalavras 3 - backup\View\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\House\Desktop\JogoPalavras 3 - backup\View\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\House\Desktop\JogoPalavras 3 - backup\View\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\House\Desktop\JogoPalavras 3 - backup\View\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\House\Desktop\JogoPalavras 3 - backup\View\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\House\Desktop\JogoPalavras 3 - backup\View\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\House\Desktop\JogoPalavras 3 - backup\View\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\House\Desktop\JogoPalavras 3 - backup\View\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\House\Desktop\JogoPalavras 3 - backup\View\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\House\Desktop\JogoPalavras 3 - backup\View\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\House\Desktop\JogoPalavras 3 - backup\View\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\House\Desktop\JogoPalavras 3 - backup\View\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\House\Desktop\JogoPalavras 3 - backup\View\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\House\Desktop\JogoPalavras 3 - backup\View\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\House\Desktop\JogoPalavras 3 - backup\View\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\House\Desktop\JogoPalavras 3 - backup\View\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\House\Desktop\JogoPalavras 3 - backup\View\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+C:\Users\House\Desktop\JogoPalavras 3 - backup\View\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\House\Desktop\JogoPalavras 3 - backup\View\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\House\Desktop\JogoPalavras 3 - backup\View\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\House\Desktop\JogoPalavras 3 - backup\View\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\House\Desktop\JogoPalavras 3 - backup\View\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\House\Desktop\JogoPalavras 3 - backup\View\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\House\Desktop\JogoPalavras 3 - backup\View\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\House\Desktop\JogoPalavras 3 - backup\View\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\House\Desktop\JogoPalavras 3 - backup\View\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\House\Desktop\JogoPalavras 3 - backup\View\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\House\Desktop\JogoPalavras 3 - backup\View\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\House\Desktop\JogoPalavras 3 - backup\View\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\House\Desktop\JogoPalavras 3 - backup\View\obj\Debug\View.csprojResolveAssemblyReference.cache
+C:\Users\House\Desktop\JogoPalavras 3 - backup\View\obj\Debug\Aviso.g.cs
+C:\Users\House\Desktop\JogoPalavras 3 - backup\View\obj\Debug\Cadastrar.g.cs
+C:\Users\House\Desktop\JogoPalavras 3 - backup\View\obj\Debug\Inicial.g.cs
+C:\Users\House\Desktop\JogoPalavras 3 - backup\View\obj\Debug\Pontos.g.cs
+C:\Users\House\Desktop\JogoPalavras 3 - backup\View\obj\Debug\RankGeral.g.cs
+C:\Users\House\Desktop\JogoPalavras 3 - backup\View\obj\Debug\Ranking.g.cs
+C:\Users\House\Desktop\JogoPalavras 3 - backup\View\obj\Debug\Regras.g.cs
+C:\Users\House\Desktop\JogoPalavras 3 - backup\View\obj\Debug\Window2.g.cs
+C:\Users\House\Desktop\JogoPalavras 3 - backup\View\obj\Debug\WindowGame.g.cs
+C:\Users\House\Desktop\JogoPalavras 3 - backup\View\obj\Debug\App.g.cs
+C:\Users\House\Desktop\JogoPalavras 3 - backup\View\obj\Debug\View_MarkupCompile.cache
+C:\Users\House\Desktop\JogoPalavras 3 - backup\View\obj\Debug\View_MarkupCompile.lref
+C:\Users\House\Desktop\JogoPalavras 3 - backup\View\obj\Debug\Aviso.baml
+C:\Users\House\Desktop\JogoPalavras 3 - backup\View\obj\Debug\Cadastrar.baml
+C:\Users\House\Desktop\JogoPalavras 3 - backup\View\obj\Debug\Inicial.baml
+C:\Users\House\Desktop\JogoPalavras 3 - backup\View\obj\Debug\Pontos.baml
+C:\Users\House\Desktop\JogoPalavras 3 - backup\View\obj\Debug\RankGeral.baml
+C:\Users\House\Desktop\JogoPalavras 3 - backup\View\obj\Debug\Ranking.baml
+C:\Users\House\Desktop\JogoPalavras 3 - backup\View\obj\Debug\Regras.baml
+C:\Users\House\Desktop\JogoPalavras 3 - backup\View\obj\Debug\Window2.baml
+C:\Users\House\Desktop\JogoPalavras 3 - backup\View\obj\Debug\WindowGame.baml
+C:\Users\House\Desktop\JogoPalavras 3 - backup\View\obj\Debug\View.g.resources
+C:\Users\House\Desktop\JogoPalavras 3 - backup\View\obj\Debug\View.Properties.Resources.resources
+C:\Users\House\Desktop\JogoPalavras 3 - backup\View\obj\Debug\View.csproj.GenerateResource.Cache
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\View\bin\Debug\View.exe.config
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\View\bin\Debug\View.exe
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\View\bin\Debug\View.pdb
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\View\bin\Debug\Bll.dll
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\View\bin\Debug\Dal.dll
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\View\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\View\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\View\bin\Debug\Model.dll
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\View\bin\Debug\MySql.Data.dll
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\View\bin\Debug\System.Web.DataVisualization.Design.dll
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\View\bin\Debug\System.Web.DataVisualization.dll
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\View\bin\Debug\System.Windows.Forms.DataVisualization.Design.dll
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\View\bin\Debug\System.Windows.Forms.DataVisualization.dll
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\View\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\View\bin\Debug\Bll.pdb
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\View\bin\Debug\Dal.pdb
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\View\bin\Debug\Model.pdb
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\View\bin\Debug\MySql.Data.xml
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\View\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\View\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\View\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\View\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\View\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\View\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\View\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\View\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\View\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\View\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\View\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\View\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\View\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\View\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\View\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\View\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\View\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\View\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\View\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\View\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\View\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\View\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\View\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\View\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\View\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\View\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\View\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\View\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\View\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\View\obj\Debug\View.csprojAssemblyReference.cache
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\View\obj\Debug\Aviso.g.cs
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\View\obj\Debug\Cadastrar.g.cs
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\View\obj\Debug\Inicial.g.cs
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\View\obj\Debug\Pontos.g.cs
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\View\obj\Debug\RankGeral.g.cs
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\View\obj\Debug\Ranking.g.cs
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\View\obj\Debug\Regras.g.cs
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\View\obj\Debug\Window2.g.cs
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\View\obj\Debug\WindowGame.g.cs
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\View\obj\Debug\App.g.cs
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\View\obj\Debug\View_MarkupCompile.cache
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\View\obj\Debug\View_MarkupCompile.lref
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\View\obj\Debug\Aviso.baml
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\View\obj\Debug\Cadastrar.baml
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\View\obj\Debug\Inicial.baml
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\View\obj\Debug\Pontos.baml
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\View\obj\Debug\RankGeral.baml
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\View\obj\Debug\Ranking.baml
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\View\obj\Debug\Regras.baml
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\View\obj\Debug\Window2.baml
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\View\obj\Debug\WindowGame.baml
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\View\obj\Debug\View.g.resources
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\View\obj\Debug\View.Properties.Resources.resources
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\View\obj\Debug\View.csproj.GenerateResource.cache
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\View\obj\Debug\View.csproj.CoreCompileInputs.cache
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\View\obj\Debug\View.csproj.CopyComplete
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\View\obj\Debug\View.exe
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\View\obj\Debug\View.pdb

@@ -1,0 +1,41 @@
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras\Model\bin\Debug\Model.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras\Model\bin\Debug\Model.pdb
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras\Model\obj\Debug\Model.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras\Model\obj\Debug\Model.pdb
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras - Copia (2)\Model\bin\Debug\Model.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras - Copia (2)\Model\bin\Debug\Model.pdb
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras - Copia (2)\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras - Copia (2)\Model\obj\Debug\Model.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras - Copia (2)\Model\obj\Debug\Model.pdb
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 2 - Copia\Model\bin\Debug\Model.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 2 - Copia\Model\bin\Debug\Model.pdb
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 2 - Copia\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 2 - Copia\Model\obj\Debug\Model.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 2 - Copia\Model\obj\Debug\Model.pdb
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - Copia\Model\bin\Debug\Model.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - Copia\Model\bin\Debug\Model.pdb
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - Copia\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - Copia\Model\obj\Debug\Model.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - Copia\Model\obj\Debug\Model.pdb
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 -funcionando\Model\bin\Debug\Model.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 -funcionando\Model\bin\Debug\Model.pdb
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 -funcionando\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 -funcionando\Model\obj\Debug\Model.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 -funcionando\Model\obj\Debug\Model.pdb
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - usando\Model\bin\Debug\Model.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - usando\Model\bin\Debug\Model.pdb
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - usando\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - usando\Model\obj\Debug\Model.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - usando\Model\obj\Debug\Model.pdb
+C:\Users\House\Desktop\JogoPalavras 3 - backup\Model\bin\Debug\Model.dll
+C:\Users\House\Desktop\JogoPalavras 3 - backup\Model\bin\Debug\Model.pdb
+C:\Users\House\Desktop\JogoPalavras 3 - backup\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\House\Desktop\JogoPalavras 3 - backup\Model\obj\Debug\Model.dll
+C:\Users\House\Desktop\JogoPalavras 3 - backup\Model\obj\Debug\Model.pdb
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\Model\bin\Debug\Model.dll
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\Model\bin\Debug\Model.pdb
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\Model\obj\Debug\Model.dll
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\Model\obj\Debug\Model.pdb

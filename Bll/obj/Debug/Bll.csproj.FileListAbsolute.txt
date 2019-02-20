@@ -1,0 +1,90 @@
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras\Bll\bin\Debug\Bll.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras\Bll\bin\Debug\Bll.pdb
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras\Bll\bin\Debug\Dal.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras\Bll\bin\Debug\MySql.Data.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras\Bll\bin\Debug\Model.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras\Bll\bin\Debug\Dal.pdb
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras\Bll\bin\Debug\MySql.Data.xml
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras\Bll\bin\Debug\Model.pdb
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras\Bll\obj\Debug\Bll.csprojResolveAssemblyReference.cache
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras\Bll\obj\Debug\Bll.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras\Bll\obj\Debug\Bll.pdb
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras - Copia (2)\Bll\bin\Debug\Bll.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras - Copia (2)\Bll\bin\Debug\Bll.pdb
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras - Copia (2)\Bll\bin\Debug\Dal.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras - Copia (2)\Bll\bin\Debug\MySql.Data.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras - Copia (2)\Bll\bin\Debug\Model.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras - Copia (2)\Bll\bin\Debug\Dal.pdb
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras - Copia (2)\Bll\bin\Debug\MySql.Data.xml
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras - Copia (2)\Bll\bin\Debug\Model.pdb
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras - Copia (2)\Bll\obj\Debug\Bll.csprojResolveAssemblyReference.cache
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras - Copia (2)\Bll\obj\Debug\Bll.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras - Copia (2)\Bll\obj\Debug\Bll.pdb
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 2 - Copia\Bll\bin\Debug\Bll.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 2 - Copia\Bll\bin\Debug\Bll.pdb
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 2 - Copia\Bll\bin\Debug\Dal.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 2 - Copia\Bll\bin\Debug\MySql.Data.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 2 - Copia\Bll\bin\Debug\Model.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 2 - Copia\Bll\bin\Debug\Dal.pdb
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 2 - Copia\Bll\bin\Debug\MySql.Data.xml
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 2 - Copia\Bll\bin\Debug\Model.pdb
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 2 - Copia\Bll\obj\Debug\Bll.csprojResolveAssemblyReference.cache
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 2 - Copia\Bll\obj\Debug\Bll.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 2 - Copia\Bll\obj\Debug\Bll.pdb
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - Copia\Bll\bin\Debug\Bll.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - Copia\Bll\bin\Debug\Bll.pdb
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - Copia\Bll\bin\Debug\Dal.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - Copia\Bll\bin\Debug\Model.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - Copia\Bll\bin\Debug\MySql.Data.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - Copia\Bll\bin\Debug\Dal.pdb
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - Copia\Bll\bin\Debug\Model.pdb
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - Copia\Bll\bin\Debug\MySql.Data.xml
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - Copia\Bll\obj\Debug\Bll.csprojResolveAssemblyReference.cache
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - Copia\Bll\obj\Debug\Bll.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - Copia\Bll\obj\Debug\Bll.pdb
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 -funcionando\Bll\bin\Debug\Bll.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 -funcionando\Bll\bin\Debug\Bll.pdb
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 -funcionando\Bll\bin\Debug\Dal.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 -funcionando\Bll\bin\Debug\Model.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 -funcionando\Bll\bin\Debug\MySql.Data.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 -funcionando\Bll\bin\Debug\Dal.pdb
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 -funcionando\Bll\bin\Debug\Model.pdb
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 -funcionando\Bll\bin\Debug\MySql.Data.xml
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 -funcionando\Bll\obj\Debug\Bll.csprojResolveAssemblyReference.cache
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 -funcionando\Bll\obj\Debug\Bll.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 -funcionando\Bll\obj\Debug\Bll.pdb
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - usando\Bll\bin\Debug\Bll.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - usando\Bll\bin\Debug\Bll.pdb
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - usando\Bll\bin\Debug\Dal.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - usando\Bll\bin\Debug\Model.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - usando\Bll\bin\Debug\MySql.Data.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - usando\Bll\bin\Debug\Dal.pdb
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - usando\Bll\bin\Debug\Model.pdb
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - usando\Bll\bin\Debug\MySql.Data.xml
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - usando\Bll\obj\Debug\Bll.csprojResolveAssemblyReference.cache
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - usando\Bll\obj\Debug\Bll.dll
+C:\Users\House\Documents\Visual Studio 2015\Projects\JogoPalavras 3 - usando\Bll\obj\Debug\Bll.pdb
+C:\Users\House\Desktop\JogoPalavras 3 - backup\Bll\bin\Debug\Bll.dll
+C:\Users\House\Desktop\JogoPalavras 3 - backup\Bll\bin\Debug\Bll.pdb
+C:\Users\House\Desktop\JogoPalavras 3 - backup\Bll\bin\Debug\Dal.dll
+C:\Users\House\Desktop\JogoPalavras 3 - backup\Bll\bin\Debug\Model.dll
+C:\Users\House\Desktop\JogoPalavras 3 - backup\Bll\bin\Debug\MySql.Data.dll
+C:\Users\House\Desktop\JogoPalavras 3 - backup\Bll\bin\Debug\Dal.pdb
+C:\Users\House\Desktop\JogoPalavras 3 - backup\Bll\bin\Debug\Model.pdb
+C:\Users\House\Desktop\JogoPalavras 3 - backup\Bll\bin\Debug\MySql.Data.xml
+C:\Users\House\Desktop\JogoPalavras 3 - backup\Bll\obj\Debug\Bll.csprojResolveAssemblyReference.cache
+C:\Users\House\Desktop\JogoPalavras 3 - backup\Bll\obj\Debug\Bll.dll
+C:\Users\House\Desktop\JogoPalavras 3 - backup\Bll\obj\Debug\Bll.pdb
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\Bll\bin\Debug\Bll.dll
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\Bll\bin\Debug\Bll.pdb
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\Bll\bin\Debug\Dal.dll
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\Bll\bin\Debug\Model.dll
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\Bll\bin\Debug\MySql.Data.dll
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\Bll\bin\Debug\Dal.pdb
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\Bll\bin\Debug\Model.pdb
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\Bll\bin\Debug\MySql.Data.xml
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\Bll\obj\Debug\Bll.csprojAssemblyReference.cache
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\Bll\obj\Debug\Bll.csproj.CoreCompileInputs.cache
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\Bll\obj\Debug\Bll.csproj.CopyComplete
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\Bll\obj\Debug\Bll.dll
+C:\Users\diego\Documents\Dev\a-c#\JogoPalavras 3 - backup\Bll\obj\Debug\Bll.pdb

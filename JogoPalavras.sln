@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{7E4BB377-9AC0-4B8E-83F3-990A1176C322}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dal", "Dal\Dal.csproj", "{E4286C68-9621-406D-B692-CFA534E16120}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bll", "Bll\Bll.csproj", "{0F136640-0C87-4FE2-8A07-5B648127DB10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "View", "View\View.csproj", "{E7F81B5F-C6BB-46D4-A5EC-C2D8755FE32D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug [ChartPoints]|Any CPU = Debug [ChartPoints]|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release [ChartPoints]|Any CPU = Release [ChartPoints]|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E4BB377-9AC0-4B8E-83F3-990A1176C322}.Debug [ChartPoints]|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E4BB377-9AC0-4B8E-83F3-990A1176C322}.Debug [ChartPoints]|Any CPU.Build.0 = Debug|Any CPU
+		{7E4BB377-9AC0-4B8E-83F3-990A1176C322}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E4BB377-9AC0-4B8E-83F3-990A1176C322}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E4BB377-9AC0-4B8E-83F3-990A1176C322}.Release [ChartPoints]|Any CPU.ActiveCfg = Release|Any CPU
+		{7E4BB377-9AC0-4B8E-83F3-990A1176C322}.Release [ChartPoints]|Any CPU.Build.0 = Release|Any CPU
+		{7E4BB377-9AC0-4B8E-83F3-990A1176C322}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E4BB377-9AC0-4B8E-83F3-990A1176C322}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4286C68-9621-406D-B692-CFA534E16120}.Debug [ChartPoints]|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4286C68-9621-406D-B692-CFA534E16120}.Debug [ChartPoints]|Any CPU.Build.0 = Debug|Any CPU
+		{E4286C68-9621-406D-B692-CFA534E16120}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4286C68-9621-406D-B692-CFA534E16120}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4286C68-9621-406D-B692-CFA534E16120}.Release [ChartPoints]|Any CPU.ActiveCfg = Release|Any CPU
+		{E4286C68-9621-406D-B692-CFA534E16120}.Release [ChartPoints]|Any CPU.Build.0 = Release|Any CPU
+		{E4286C68-9621-406D-B692-CFA534E16120}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4286C68-9621-406D-B692-CFA534E16120}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F136640-0C87-4FE2-8A07-5B648127DB10}.Debug [ChartPoints]|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F136640-0C87-4FE2-8A07-5B648127DB10}.Debug [ChartPoints]|Any CPU.Build.0 = Debug|Any CPU
+		{0F136640-0C87-4FE2-8A07-5B648127DB10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F136640-0C87-4FE2-8A07-5B648127DB10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F136640-0C87-4FE2-8A07-5B648127DB10}.Release [ChartPoints]|Any CPU.ActiveCfg = Release|Any CPU
+		{0F136640-0C87-4FE2-8A07-5B648127DB10}.Release [ChartPoints]|Any CPU.Build.0 = Release|Any CPU
+		{0F136640-0C87-4FE2-8A07-5B648127DB10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F136640-0C87-4FE2-8A07-5B648127DB10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7F81B5F-C6BB-46D4-A5EC-C2D8755FE32D}.Debug [ChartPoints]|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7F81B5F-C6BB-46D4-A5EC-C2D8755FE32D}.Debug [ChartPoints]|Any CPU.Build.0 = Debug|Any CPU
+		{E7F81B5F-C6BB-46D4-A5EC-C2D8755FE32D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7F81B5F-C6BB-46D4-A5EC-C2D8755FE32D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7F81B5F-C6BB-46D4-A5EC-C2D8755FE32D}.Release [ChartPoints]|Any CPU.ActiveCfg = Release|Any CPU
+		{E7F81B5F-C6BB-46D4-A5EC-C2D8755FE32D}.Release [ChartPoints]|Any CPU.Build.0 = Release|Any CPU
+		{E7F81B5F-C6BB-46D4-A5EC-C2D8755FE32D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7F81B5F-C6BB-46D4-A5EC-C2D8755FE32D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
